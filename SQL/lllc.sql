@@ -7,6 +7,9 @@
 -- Wersja serwera: 10.0.32-MariaDB
 -- Wersja PHP: 5.5.14
 
+CREATE DATABASE `lllc`;
+USE `lllc`;
+
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;
