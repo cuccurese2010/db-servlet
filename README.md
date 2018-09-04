@@ -36,4 +36,4 @@ The SQL file you can find in
 
 You can use PhpMyAdmin from
 
-https://github.com/tomek-servlets/phpMyAdmin
+https://github.com/cuccurese2010/phpMyAdmin
