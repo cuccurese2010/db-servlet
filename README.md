@@ -6,6 +6,7 @@ An example of a simple servlets application working with the
 `WildFly` 
 
 oc new-app https://github.com/cuccurese2010/db-servlet.git --image-stream=openshift/wildfly:latest
+
 together with
 
 `MySQL`
